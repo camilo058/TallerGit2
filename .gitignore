@@ -1,0 +1,5 @@
+```text
+*.class
+.DS_Store
+.vscode/
+.idea/
