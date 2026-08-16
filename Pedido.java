@@ -17,10 +17,18 @@ public class Pedido {
         for (Producto p : productos) {
             total += p.getPrecio();
         }
+
+        if(Productos.size() > 3){
+            double descuento = total * 0.15;
+            total = total - descuento;
+        }
+
         return total;
     }
 
     public List<Producto> getProductos() {
         return productos;
     }
+
+    
 }
