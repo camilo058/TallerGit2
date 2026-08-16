@@ -4,6 +4,7 @@ public class Producto {
 
     public Producto(String nombre, double precio) {
         this.nombre = nombre;
+        validarPrecio(precio);
         this.precio = precio;
     }
 
@@ -20,6 +21,13 @@ public class Producto {
     }
 
     public void setPrecio(double precio) {
+        validarPrecio(precio);
         this.precio = precio;
+    }
+
+    private void validarPrecio(double precio){
+        if(precio < = 0){
+            System.out.print("el precio no puede ser negativo");
+        }
     }
 }
