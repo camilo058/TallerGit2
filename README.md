@@ -13,8 +13,8 @@
 | Integrante | Rol Scrum | Perfil de GitHub |
 |---|---|---|
 | Estudiante 1 | rol | [https://github.com/usuario](https://github.com/usuario) |
+| Jhon Sebastian Mejia Alvarez| rol | [https://github.com/jhonconmejillas-cyber](https://github.com/usuario) |
 | Estudiante 2 | rol | [https://github.com/usuario](https://github.com/usuario) |
-
 ---
 
 ##  Compilación y Ejecución Local
