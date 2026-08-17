@@ -26,6 +26,11 @@ public class Pedido {
         return total;
     }
 
+    public double cacularTotalConImpuesto(double impuesto) {
+        double total = calcularTotal();
+        return total + (total * impuesto);
+    }
+
     public List<Producto> getProductos() {
         return productos;
     }
