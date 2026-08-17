@@ -10,10 +10,14 @@
 
 > **Instrucción:** Cada integrante debe editar esta tabla en su rama de trabajo para incluir sus datos mediante un Pull Request.
 
-| Integrante | Rol Scrum | Perfil de GitHub |
-|---|---|---|
-| Estudiante 1 | rol | [https://github.com/usuario](https://github.com/usuario) |
-| Estudiante 2 | rol | [https://github.com/usuario](https://github.com/usuario) |
+| Integrante     | Rol Scrum             | Perfil de GitHub |
+|--------------  |-----------------------|----------------------------------|
+| Carlos Camacho | Scrum Master          | github.com/charly-31             |
+| Jhon Mejia     | Product Owner         | github.com/jhonconmejillas-cyber |
+| Juan Maldonado | Sprint Planner        | github.com/camilo058             |
+| Jhon Mejia     | Configuration Manager | github.com/jhonconmejillas-cyber |
+| Juan Maldonado | QA Lead               | github.com/camilo058             |
+| Carlos Camacho | DevOps Engineer       | github.com/charly-31             |
 
 ---
 
