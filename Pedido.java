@@ -19,6 +19,12 @@ public class Pedido {
         }
         return total;
     }
+    public double calcularTotalConDescuento(double porcentaje) ¨{
+        double total = calcularTotal();
+        double descuento = total*(porcentaje/100);
+        return total-descuento;
+    }
+
 
     public List<Producto> getProductos() {
         return productos;
